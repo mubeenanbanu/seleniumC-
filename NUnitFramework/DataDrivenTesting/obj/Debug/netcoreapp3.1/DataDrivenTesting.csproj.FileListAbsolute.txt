@@ -1,0 +1,16 @@
+C:\Users\mubeena\source\repos\NUnitFramework\DataDrivenTesting\bin\Debug\netcoreapp3.1\DataDrivenTesting.exe
+C:\Users\mubeena\source\repos\NUnitFramework\DataDrivenTesting\bin\Debug\netcoreapp3.1\DataDrivenTesting.deps.json
+C:\Users\mubeena\source\repos\NUnitFramework\DataDrivenTesting\bin\Debug\netcoreapp3.1\DataDrivenTesting.runtimeconfig.json
+C:\Users\mubeena\source\repos\NUnitFramework\DataDrivenTesting\bin\Debug\netcoreapp3.1\DataDrivenTesting.runtimeconfig.dev.json
+C:\Users\mubeena\source\repos\NUnitFramework\DataDrivenTesting\bin\Debug\netcoreapp3.1\DataDrivenTesting.dll
+C:\Users\mubeena\source\repos\NUnitFramework\DataDrivenTesting\bin\Debug\netcoreapp3.1\DataDrivenTesting.pdb
+C:\Users\mubeena\source\repos\NUnitFramework\DataDrivenTesting\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\mubeena\source\repos\NUnitFramework\DataDrivenTesting\obj\Debug\netcoreapp3.1\DataDrivenTesting.csproj.AssemblyReference.cache
+C:\Users\mubeena\source\repos\NUnitFramework\DataDrivenTesting\obj\Debug\netcoreapp3.1\DataDrivenTesting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mubeena\source\repos\NUnitFramework\DataDrivenTesting\obj\Debug\netcoreapp3.1\DataDrivenTesting.AssemblyInfoInputs.cache
+C:\Users\mubeena\source\repos\NUnitFramework\DataDrivenTesting\obj\Debug\netcoreapp3.1\DataDrivenTesting.AssemblyInfo.cs
+C:\Users\mubeena\source\repos\NUnitFramework\DataDrivenTesting\obj\Debug\netcoreapp3.1\DataDrivenTesting.csproj.CoreCompileInputs.cache
+C:\Users\mubeena\source\repos\NUnitFramework\DataDrivenTesting\obj\Debug\netcoreapp3.1\DataDrivenTesting.csproj.CopyComplete
+C:\Users\mubeena\source\repos\NUnitFramework\DataDrivenTesting\obj\Debug\netcoreapp3.1\DataDrivenTesting.dll
+C:\Users\mubeena\source\repos\NUnitFramework\DataDrivenTesting\obj\Debug\netcoreapp3.1\DataDrivenTesting.pdb
+C:\Users\mubeena\source\repos\NUnitFramework\DataDrivenTesting\obj\Debug\netcoreapp3.1\DataDrivenTesting.genruntimeconfig.cache

@@ -1,0 +1,10 @@
+C:\Users\mubeena\source\repos\Sample Project\Specflow Calculator\bin\Debug\netstandard2.1\SpecflowCalculator.deps.json
+C:\Users\mubeena\source\repos\Sample Project\Specflow Calculator\bin\Debug\netstandard2.1\SpecflowCalculator.dll
+C:\Users\mubeena\source\repos\Sample Project\Specflow Calculator\bin\Debug\netstandard2.1\SpecflowCalculator.pdb
+C:\Users\mubeena\source\repos\Sample Project\Specflow Calculator\obj\Debug\netstandard2.1\SpecflowCalculator.csproj.AssemblyReference.cache
+C:\Users\mubeena\source\repos\Sample Project\Specflow Calculator\obj\Debug\netstandard2.1\SpecflowCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mubeena\source\repos\Sample Project\Specflow Calculator\obj\Debug\netstandard2.1\SpecflowCalculator.AssemblyInfoInputs.cache
+C:\Users\mubeena\source\repos\Sample Project\Specflow Calculator\obj\Debug\netstandard2.1\SpecflowCalculator.AssemblyInfo.cs
+C:\Users\mubeena\source\repos\Sample Project\Specflow Calculator\obj\Debug\netstandard2.1\SpecflowCalculator.csproj.CoreCompileInputs.cache
+C:\Users\mubeena\source\repos\Sample Project\Specflow Calculator\obj\Debug\netstandard2.1\SpecflowCalculator.dll
+C:\Users\mubeena\source\repos\Sample Project\Specflow Calculator\obj\Debug\netstandard2.1\SpecflowCalculator.pdb

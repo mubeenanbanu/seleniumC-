@@ -1,0 +1,16 @@
+C:\Users\mubeena\source\repos\SeleniumCSharp\SeleniumCSharp\bin\Debug\netcoreapp3.1\SeleniumCSharp.exe
+C:\Users\mubeena\source\repos\SeleniumCSharp\SeleniumCSharp\bin\Debug\netcoreapp3.1\SeleniumCSharp.deps.json
+C:\Users\mubeena\source\repos\SeleniumCSharp\SeleniumCSharp\bin\Debug\netcoreapp3.1\SeleniumCSharp.runtimeconfig.json
+C:\Users\mubeena\source\repos\SeleniumCSharp\SeleniumCSharp\bin\Debug\netcoreapp3.1\SeleniumCSharp.runtimeconfig.dev.json
+C:\Users\mubeena\source\repos\SeleniumCSharp\SeleniumCSharp\bin\Debug\netcoreapp3.1\SeleniumCSharp.dll
+C:\Users\mubeena\source\repos\SeleniumCSharp\SeleniumCSharp\bin\Debug\netcoreapp3.1\SeleniumCSharp.pdb
+C:\Users\mubeena\source\repos\SeleniumCSharp\SeleniumCSharp\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\mubeena\source\repos\SeleniumCSharp\SeleniumCSharp\bin\Debug\netcoreapp3.1\WebDriver.dll
+C:\Users\mubeena\source\repos\SeleniumCSharp\SeleniumCSharp\obj\Debug\netcoreapp3.1\SeleniumCSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mubeena\source\repos\SeleniumCSharp\SeleniumCSharp\obj\Debug\netcoreapp3.1\SeleniumCSharp.AssemblyInfoInputs.cache
+C:\Users\mubeena\source\repos\SeleniumCSharp\SeleniumCSharp\obj\Debug\netcoreapp3.1\SeleniumCSharp.AssemblyInfo.cs
+C:\Users\mubeena\source\repos\SeleniumCSharp\SeleniumCSharp\obj\Debug\netcoreapp3.1\SeleniumCSharp.csproj.CoreCompileInputs.cache
+C:\Users\mubeena\source\repos\SeleniumCSharp\SeleniumCSharp\obj\Debug\netcoreapp3.1\SeleniumCSharp.csproj.CopyComplete
+C:\Users\mubeena\source\repos\SeleniumCSharp\SeleniumCSharp\obj\Debug\netcoreapp3.1\SeleniumCSharp.dll
+C:\Users\mubeena\source\repos\SeleniumCSharp\SeleniumCSharp\obj\Debug\netcoreapp3.1\SeleniumCSharp.pdb
+C:\Users\mubeena\source\repos\SeleniumCSharp\SeleniumCSharp\obj\Debug\netcoreapp3.1\SeleniumCSharp.genruntimeconfig.cache

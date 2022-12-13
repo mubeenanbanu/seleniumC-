@@ -1,0 +1,8 @@
+C:\Users\mubeena\source\repos\SpecflowCalculator\SpecflowCalculator\bin\Debug\netstandard2.1\TechTalk.SpecFlow.NUnit.SpecFlowPlugin.dll
+C:\Users\mubeena\source\repos\SpecflowCalculator\SpecflowCalculator\obj\Debug\netstandard2.1\ToDoApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mubeena\source\repos\SpecflowCalculator\SpecflowCalculator\obj\Debug\netstandard2.1\ToDoApp.AssemblyInfoInputs.cache
+C:\Users\mubeena\source\repos\SpecflowCalculator\SpecflowCalculator\obj\Debug\netstandard2.1\ToDoApp.AssemblyInfo.cs
+C:\Users\mubeena\source\repos\SpecflowCalculator\SpecflowCalculator\obj\Debug\netstandard2.1\ToDoApp.csproj.CoreCompileInputs.cache
+C:\Users\mubeena\source\repos\SpecflowCalculator\SpecflowCalculator\obj\Debug\netstandard2.1\ToDoApp.dll
+C:\Users\mubeena\source\repos\SpecflowCalculator\SpecflowCalculator\obj\Debug\netstandard2.1\ToDoApp.pdb
+C:\Users\mubeena\source\repos\SpecflowCalculator\SpecflowCalculator\obj\Debug\netstandard2.1\ToDoApp.csproj.AssemblyReference.cache

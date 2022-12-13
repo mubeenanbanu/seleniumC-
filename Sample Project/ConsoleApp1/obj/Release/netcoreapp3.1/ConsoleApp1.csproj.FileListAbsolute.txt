@@ -1,0 +1,46 @@
+C:\Users\mubeena\source\repos\Sample Project\ConsoleApp1\bin\Release\netcoreapp3.1\ConsoleApp1.exe
+C:\Users\mubeena\source\repos\Sample Project\ConsoleApp1\bin\Release\netcoreapp3.1\ConsoleApp1.deps.json
+C:\Users\mubeena\source\repos\Sample Project\ConsoleApp1\bin\Release\netcoreapp3.1\ConsoleApp1.runtimeconfig.json
+C:\Users\mubeena\source\repos\Sample Project\ConsoleApp1\bin\Release\netcoreapp3.1\ConsoleApp1.runtimeconfig.dev.json
+C:\Users\mubeena\source\repos\Sample Project\ConsoleApp1\bin\Release\netcoreapp3.1\ConsoleApp1.dll
+C:\Users\mubeena\source\repos\Sample Project\ConsoleApp1\bin\Release\netcoreapp3.1\ConsoleApp1.pdb
+C:\Users\mubeena\source\repos\Sample Project\ConsoleApp1\obj\Release\netcoreapp3.1\ConsoleApp1.csproj.AssemblyReference.cache
+C:\Users\mubeena\source\repos\Sample Project\ConsoleApp1\obj\Release\netcoreapp3.1\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mubeena\source\repos\Sample Project\ConsoleApp1\obj\Release\netcoreapp3.1\ConsoleApp1.AssemblyInfoInputs.cache
+C:\Users\mubeena\source\repos\Sample Project\ConsoleApp1\obj\Release\netcoreapp3.1\ConsoleApp1.AssemblyInfo.cs
+C:\Users\mubeena\source\repos\Sample Project\ConsoleApp1\obj\Release\netcoreapp3.1\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\mubeena\source\repos\Sample Project\ConsoleApp1\obj\Release\netcoreapp3.1\ConsoleApp1.dll
+C:\Users\mubeena\source\repos\Sample Project\ConsoleApp1\obj\Release\netcoreapp3.1\ConsoleApp1.pdb
+C:\Users\mubeena\source\repos\Sample Project\ConsoleApp1\obj\Release\netcoreapp3.1\ConsoleApp1.genruntimeconfig.cache
+C:\Users\mubeena\source\repos\Sample Project\ConsoleApp1\bin\Release\netcoreapp3.1\TechTalk.SpecFlow.NUnit.SpecFlowPlugin.dll
+C:\Users\mubeena\source\repos\Sample Project\ConsoleApp1\bin\Release\netcoreapp3.1\Sample Project.deps.json
+C:\Users\mubeena\source\repos\Sample Project\ConsoleApp1\bin\Release\netcoreapp3.1\Sample Project.runtimeconfig.json
+C:\Users\mubeena\source\repos\Sample Project\ConsoleApp1\bin\Release\netcoreapp3.1\Sample Project.runtimeconfig.dev.json
+C:\Users\mubeena\source\repos\Sample Project\ConsoleApp1\bin\Release\netcoreapp3.1\Sample Project.exe
+C:\Users\mubeena\source\repos\Sample Project\ConsoleApp1\bin\Release\netcoreapp3.1\NUnit3.TestAdapter.dll
+C:\Users\mubeena\source\repos\Sample Project\ConsoleApp1\bin\Release\netcoreapp3.1\NUnit3.TestAdapter.pdb
+C:\Users\mubeena\source\repos\Sample Project\ConsoleApp1\bin\Release\netcoreapp3.1\nunit.engine.dll
+C:\Users\mubeena\source\repos\Sample Project\ConsoleApp1\bin\Release\netcoreapp3.1\nunit.engine.api.dll
+C:\Users\mubeena\source\repos\Sample Project\ConsoleApp1\bin\Release\netcoreapp3.1\nunit.engine.core.dll
+C:\Users\mubeena\source\repos\Sample Project\ConsoleApp1\bin\Release\netcoreapp3.1\testcentric.engine.metadata.dll
+C:\Users\mubeena\source\repos\Sample Project\ConsoleApp1\bin\Release\netcoreapp3.1\selenium-manager\linux\selenium-manager
+C:\Users\mubeena\source\repos\Sample Project\ConsoleApp1\bin\Release\netcoreapp3.1\selenium-manager\macos\selenium-manager
+C:\Users\mubeena\source\repos\Sample Project\ConsoleApp1\bin\Release\netcoreapp3.1\selenium-manager\windows\selenium-manager.exe
+C:\Users\mubeena\source\repos\Sample Project\ConsoleApp1\bin\Release\netcoreapp3.1\Class1.cs
+C:\Users\mubeena\source\repos\Sample Project\ConsoleApp1\bin\Release\netcoreapp3.1\BoDi.dll
+C:\Users\mubeena\source\repos\Sample Project\ConsoleApp1\bin\Release\netcoreapp3.1\Gherkin.dll
+C:\Users\mubeena\source\repos\Sample Project\ConsoleApp1\bin\Release\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\mubeena\source\repos\Sample Project\ConsoleApp1\bin\Release\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+C:\Users\mubeena\source\repos\Sample Project\ConsoleApp1\bin\Release\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\mubeena\source\repos\Sample Project\ConsoleApp1\bin\Release\netcoreapp3.1\nunit.framework.dll
+C:\Users\mubeena\source\repos\Sample Project\ConsoleApp1\bin\Release\netcoreapp3.1\WebDriver.Support.dll
+C:\Users\mubeena\source\repos\Sample Project\ConsoleApp1\bin\Release\netcoreapp3.1\WebDriver.dll
+C:\Users\mubeena\source\repos\Sample Project\ConsoleApp1\bin\Release\netcoreapp3.1\TechTalk.SpecFlow.dll
+C:\Users\mubeena\source\repos\Sample Project\ConsoleApp1\bin\Release\netcoreapp3.1\SpecFlow.Internal.Json.dll
+C:\Users\mubeena\source\repos\Sample Project\ConsoleApp1\bin\Release\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\mubeena\source\repos\Sample Project\ConsoleApp1\bin\Release\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\mubeena\source\repos\Sample Project\ConsoleApp1\bin\Release\netcoreapp3.1\System.Security.Permissions.dll
+C:\Users\mubeena\source\repos\Sample Project\ConsoleApp1\bin\Release\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\mubeena\source\repos\Sample Project\ConsoleApp1\bin\Release\netcoreapp3.1\Sample Project.dll
+C:\Users\mubeena\source\repos\Sample Project\ConsoleApp1\bin\Release\netcoreapp3.1\Sample Project.pdb
+C:\Users\mubeena\source\repos\Sample Project\ConsoleApp1\obj\Release\netcoreapp3.1\ConsoleApp1.csproj.CopyComplete
